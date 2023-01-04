@@ -1,0 +1,13 @@
+{
+  "tuyaAPI": {
+    "baseUrl": "https://openapi.tuyaus.com",
+    "accessKey": "tuyaApi accessKey",
+    "secretKey": "tuyaApi secretKey"
+  },
+  "devices": [
+    {
+      "id": "device id",
+      "alarmWebhook": "url to be called when a leak is detected"
+    }
+  ]
+}
